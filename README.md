@@ -75,3 +75,4 @@ miniprint, selects the minimal output
 nopop, turns off all populaton analysis
 
 xyz charge(The charge and polarity of molecule) multi(Spin multiplicity)
+> charge 0 and multi 1 are common in amino acid molecules and biomolecules.
