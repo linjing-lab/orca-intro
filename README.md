@@ -42,7 +42,7 @@ view current openmpi
 mpiexec -V
 ```
 ### orca_shared
-go to the [ORCA forum](https://orcaforum.kofo.mpg.de/) website for corresponding veriosn and enter the command to decompress
+go to the [ORCA forum](https://orcaforum.kofo.mpg.de/) website for downloading compatible version with openmpi and enter the command to decompress
 ```text
 tar -xJf orca_5_0_4_linux_x86-64_shared_openmpi411.tar.xz
 ```
